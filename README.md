@@ -6,7 +6,7 @@
 
 扫描下载
 
-![扫描下载](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/download.png)
+![扫描下载](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/download.png)
 
 ## 目录
 
@@ -80,19 +80,19 @@
 
 ### 实际效果
 
-![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/alt_1.PNG)
+![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/alt_1.PNG)
 
-![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/alt_2.PNG)
+![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/alt_2.PNG)
 
-![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/alt_3.PNG)
+![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/alt_3.PNG)
 
-![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/alt_4.PNG)
+![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/alt_4.PNG)
 
-![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/alt_5.PNG)
+![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/alt_5.PNG)
 
-![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/alt_6.PNG)
+![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/alt_6.PNG)
 
-![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/master/screenshot/alt_7.PNG)
+![Flutter_Trip](https://github.com/raojianxiong/xiechengwang_app/blob/master/screenshot/alt_7.PNG)
 
 
 
