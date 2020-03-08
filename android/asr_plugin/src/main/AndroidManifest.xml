@@ -1,0 +1,25 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rjx.asr_plugin">
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- 蓝牙录音使用，不需要可以去除 -->
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <application>
+        <meta-data
+            android:name="com.baidu.speech.APP_ID"
+            android:value="18631030"/>
+
+        <meta-data
+            android:name="com.baidu.speech.API_KEY"
+            android:value="0qC6d61QmBaiI6Lkc6WCK4tl"/>
+        <meta-data
+            android:name="com.baidu.speech.SECRET_KEY"
+            android:value="plFHq6o6d7pvBjqPqXUiYhvDLbwt9Ch8"/>
+    </application>
+</manifest>
