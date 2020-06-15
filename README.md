@@ -1,6 +1,6 @@
 # xiechengwang_app
 
-> 一款仿携程旅行 Flutter App
+> 一款仿携程旅行 Flutter App [学自CrazyCodeBoy](https://coding.imooc.com/class/321.html)
 
 [**下载** ](http://d.alphaqr.com/pe2l) 点击下载应用
 
