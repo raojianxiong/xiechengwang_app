@@ -2,7 +2,7 @@
 
 > 一款仿携程旅行 Flutter App [速学CrazyCodeBoy](https://coding.imooc.com/class/321.html)
 
-[**下载** ](http://d.alphaqr.com/pe2l) 点击下载应用
+[**下载** ](https://github.com/raojianxiong/xiechengwang_app/blob/master/app-release.apk) 点击下载应用
 
 扫描下载
 
